@@ -35,26 +35,5 @@ A web-based platform connecting **farmers, consumers, and students** to enhance 
  ├── 📜 README.md      # Project documentation
 ```
 
-## 📦 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/farmer-consumer-platform.git
-   ```
-2. Set up the database:
-   - Import the provided SQL file into MySQL.
-   - Update database credentials in `model/database.php`.
-3. Start a local PHP server:
-   ```sh
-   php -S localhost:8000
-   ```
-4. Open `http://localhost:8000` in your browser.
-
-## 🤝 Contribution
-Contributions are welcome! Feel free to submit **issues** or **pull requests**.
-
-## 📜 License
-This project is open-source under the **MIT License**.
-
----
 
 💡 *Built with passion to support farmers and empower consumers!* 🌱
